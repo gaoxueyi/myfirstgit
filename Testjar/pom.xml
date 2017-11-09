@@ -80,7 +80,7 @@
 		<repository>
 			<id>nexus-repos</id>
 			<name>Team Nexus Repository</name>
-			<url>http://127.0.0.1:8081/nexus/content/groups/public/</url>
+			<url>http://10.10.2.6:8081/nexus/content/groups/public/</url>
 			<releases>
 				<enabled>true</enabled>
 			</releases>
@@ -95,7 +95,7 @@
 		<pluginRepository>
 			<id>nexus-repos</id>
 			<name>Team Nexus Repository</name>
-			<url>http://127.0.0.1:8081/nexus/content/groups/public/</url>
+			<url>http://10.10.2.6:8081/nexus/content/groups/public/</url>
 			<releases>
 				<enabled>true</enabled>
 			</releases>
